@@ -1,13 +1,25 @@
 # 📈 Microsoft Stock Price Prediction using Machine Learning
 
-This project was developed as part of a **4-week Internship Program organized by the Edunet Foundation under the AI Skills on Microsoft Azure Platform initiative**. The primary objective of the project is to analyze and forecast Microsoft (MSFT) stock prices using advanced Machine Learning (ML) and Artificial Intelligence (AI) techniques.
+An **interactive Streamlit web application** for **predicting Microsoft (MSFT) stock prices** using Machine Learning and Deep Learning techniques. This application applies **Bidirectional LSTM models** and technical indicators to analyze historical stock data and forecast future prices, helping users make informed, data-driven investment decisions.
 
-## 🔍 Project Objective
-
-To design and deploy a predictive model that forecasts the future stock prices of Microsoft Corporation using historical stock data, technical indicators, and deep learning models.
+🎓 **Internship Program:** AI Skills on Microsoft Azure Platform  
+🏢 **Organization:** Edunet Foundation  
+🏫 **Institute:** Rishi MS Institute Of Engineering & Technology For Women  
+🧠 **AICTE Student ID:** STU6641f91d5732e1715599645
 
 ---
 
+## 🔍 Project Objective
+
+To design and deploy a predictive model that forecasts future Microsoft stock prices using historical stock data, technical indicators, and deep learning models.
+
+---
+
+## 🌻 What I Learned
+
+This project improved my skills in using AI and machine learning for real-world applications, especially in time-series forecasting within the financial domain. I practiced working with data pipelines, model development, and deployment workflows, taking this project from an initial idea to a fully functional and deployed Streamlit web application. This has added a deployment-ready project to my portfolio, supporting my preparation for internships and future opportunities in the tech industry.
+
+---
 ## 🧠 Tech Stack Used
 
 ### 📌 Languages & Libraries
