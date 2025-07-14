@@ -4,7 +4,10 @@ An **interactive Streamlit web application** for **predicting Microsoft (MSFT) s
 
 🎓 **Internship Program:** AI Skills on Microsoft Azure Platform  
 🏢 **Organization:** Edunet Foundation  
-🏫 **Institute:** Rishi MS Institute Of Engineering & Technology For Women  
+👩‍🎓 **Student Name:** Vani Sai Deepika  
+🏫 **College Name:** Rishi MS Institute Of Engineering & Technology For Women  
+💻 **Department:** Computer Science and Engineering  
+✉️ **Email:** saideepikavani@gmail.com  
 🧠 **AICTE Student ID:** STU6641f91d5732e1715599645
 
 ---
