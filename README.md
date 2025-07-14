@@ -20,15 +20,27 @@ To design and deploy a predictive model that forecasts future Microsoft stock pr
 This project improved my skills in using AI and machine learning for real-world applications, especially in time-series forecasting within the financial domain. I practiced working with data pipelines, model development, and deployment workflows, taking this project from an initial idea to a fully functional and deployed Streamlit web application. This has added a deployment-ready project to my portfolio, supporting my preparation for internships and future opportunities in the tech industry.
 
 ---
+
+## 🌐 Live Demo
+
+The project has been deployed as an interactive Streamlit web application and is available here:
+
+[![View on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://microsoft-stock-price-prediction-4ssuutizqupstxes6uungb.streamlit.app/)
+
+🌻 **Check it out here:** [Click to view the deployed app](https://microsoft-stock-price-prediction-4ssuutizqupstxes6uungb.streamlit.app/)
+
+---
+
 ## 🧠 Tech Stack Used
 
-### 📌 Languages & Libraries
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn, Plotly
-- Scikit-learn
-- TensorFlow & Keras
-- yFinance (for stock data retrieval)
+### 📌 Languages & Libraries (with Purpose)
+
+- **Python** – Used as the primary programming language for data processing, modeling, and app development.
+- **Pandas, NumPy** – For data loading, cleaning, manipulation, and efficient numerical operations on stock data.
+- **Matplotlib, Seaborn, Plotly** – To create clear, interactive, and visually appealing charts for EDA and app visualization.
+- **Scikit-learn** – For preprocessing (scaling), data splitting, and utility ML functions to prepare data for the model.
+- **TensorFlow & Keras** – To build, train, and evaluate the Bidirectional LSTM model for time-series forecasting.
+- **yFinance (for stock data retrieval)** – To fetch 10 years of historical Microsoft stock data directly within the app.
 
 ### 📌 Tools & Platforms
 - **Jupyter Notebook** – For experimentation and data analysis  
