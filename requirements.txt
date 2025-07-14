@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-yfinance
-matplotlib
-seaborn
-scikit-learn
-tensorflow==2.12.0
-plotly
