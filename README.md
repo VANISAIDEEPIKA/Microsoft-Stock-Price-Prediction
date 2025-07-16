@@ -36,7 +36,7 @@ The project has been deployed as an interactive Streamlit web application and is
 
 ## 🧠 Tech Stack Used
 
-### 📌 Languages & Libraries (with Purpose)
+### 📌 Languages & Libraries 
 
 - **Python** – Used as the primary programming language for data processing, modeling, and app development.
 - **Pandas, NumPy** – For data loading, cleaning, manipulation, and efficient numerical operations on stock data.
